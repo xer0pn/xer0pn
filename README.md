@@ -8,7 +8,7 @@
   </span>
 </h1>
 <h3 align="center" style="color: #ffe312;">
-  A passionate Software Engineer from Saudi
+  A passionate Software Engineer 
 </h3>
 
 <hr style="
