@@ -4,7 +4,7 @@
     -webkit-background-clip: text;
     color: transparent;
   ">
-    Hi 👋, I'm xer0pn
+   xer0pn
   </span>
 </h1>
 <h3 align="center" style="color: #ffe312;">
