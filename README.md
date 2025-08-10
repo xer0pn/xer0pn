@@ -23,17 +23,10 @@
   padding: 8px 12px;
   border-radius: 4px;
 ">
-  Connect with me:
+ :
 </h3>
 <p align="left">
-  <a href="https://instagram.com/xer0pn" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram"
-      width="40" height="40"
-      style="filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.3));"
-    />
-  </a>
+
 </p>
 
 <h3 align="left" style="
