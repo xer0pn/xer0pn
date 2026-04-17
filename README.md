@@ -52,7 +52,7 @@ keep separate: intelligent systems and financial markets.
 
 > AI-powered system that matches new athletes to sports teams
 > based on their abilities and suggests the right position for them.
-> Built for a hackathon organized by STC and the Ministry of Sports.
+> Built for a hackathon organized by the Ministry of Sports.
 
 `Python` `AI` `Matching Algorithm`
 
